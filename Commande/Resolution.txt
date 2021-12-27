@@ -1,0 +1,49 @@
+take key
+use key
+go up
+go west
+look note
+go south
+go south
+go south
+go west
+solve down west west east up west east down east up
+go up
+go up
+go up
+go east
+look instructions
+go west
+go down
+go down
+go down
+go east 
+go north
+look gardeningBook
+look geologyBook
+look dictionnary
+go south
+drop key
+take sulfur
+go north
+go east
+take cookie
+items
+eat cookie
+go north-west
+go west
+go west
+take coal
+go north
+take salpetre
+go east
+go south-east
+go east
+take candle
+go west
+go north-west
+go east
+take fire
+go down
+items
+light

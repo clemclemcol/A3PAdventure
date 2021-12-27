@@ -1,0 +1,4 @@
+take key
+use key
+go up
+quit

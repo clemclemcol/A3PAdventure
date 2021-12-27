@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ @author\ COLNOT\ Clemence\r\n\ @version\ 2021.12.15\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Game\ Constructor\r\n
+comment2.params=pCommand
+comment2.target=boolean\ quit(Command)
+comment2.text=\r\n\ Quit\r\n\ @param\ Command\ pCommand\r\n\ @return\ boolean\r\n
+numComments=3

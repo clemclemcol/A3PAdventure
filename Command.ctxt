@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ @author\ COLNOT\ Clemence\r\n\ @version\ 2021.12.15\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Command\ Constructor\r\n\ @param\ String\ pCommandWord,\ String\ pSecondWord\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Getter\ aCommandWord\r\n\ @return\ aCommandWord\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Getter\ aSecondWord\r\n\ @return\ aSecondWord\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ hasSecondWord\r\n\ @return\ true\ if\ aSecondWord\ is\ not\ null\ \r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ isUnknown\ \r\n\ @return\ true\ if\ aCommandWord\ is\ null\r\n
+numComments=6

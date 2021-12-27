@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RoomAndDirection
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ RoomAndDirection\ ici.\r\n\r\n\ @author\ COLNOT\ Cl\u00E9mence\r\n\ @version\ 2021.12.22\r\n
+comment1.params=pRoom\ pDirection
+comment1.target=RoomAndDirection(Room,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ RoomAndDirection\r\n
+comment2.params=
+comment2.target=Room\ getRoom()
+comment2.text=\r\n\ Get\ Room\r\n\ @return\ Room\ aRoom\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDirection()
+comment3.text=\r\n\ Get\ Direction\r\n\ @return\ String\ aDirection\r\n
+comment4.params=pDirection
+comment4.target=java.lang.String\ getOppositeDirection(java.lang.String)
+comment4.text=\r\n\ Get\ opposite\ Direction\r\n\ @return\ String\ \r\n
+numComments=5
